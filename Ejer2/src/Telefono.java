@@ -3,11 +3,6 @@ import java.awt.event.*;
 import java.io.*;
 import java.util.Scanner;
 import javax.swing.*;
-import javax.swing.event.MouseInputAdapter;
-
-import javafx.event.ActionEvent;
-
-//import javafx.scene.input.KeyEvent;
 
 public class Telefono extends JFrame implements ActionListener {
 
@@ -26,7 +21,7 @@ public class Telefono extends JFrame implements ActionListener {
         setFocusable(true);
         
         int x = 10, y = 50;
-        this.addMouseListener(new gestorRaton());
+
         addKeyListener(new gestorTeclado());
 
         for (int i = 0; i < numeros.length; i++) {
@@ -44,6 +39,7 @@ public class Telefono extends JFrame implements ActionListener {
             });
             botones[i].addMouseListener(new gestorRaton());
             botones[i].addMouseMotionListener(new gestorRaton());
+            botones[i].addKeyListener(new gestorTeclado());
             this.add(botones[i]);
 
             if ((i + 1) % 3 == 0) {
@@ -142,14 +138,6 @@ public class Telefono extends JFrame implements ActionListener {
             JOptionPane.showMessageDialog(null, texto, "Telefonos guardados", JOptionPane.INFORMATION_MESSAGE);
         }
 
-        if (e.getSource() == resetOpc) {
-            txfNumerosPulsados.setText("");
-            texto = "";
-            for (int i = 0; i < botones.length; i++) {
-                botones[i].setBackground(null);
-            }
-        }
-
         if (e.getSource() == salir) {
             System.exit(0);
         }
@@ -159,7 +147,7 @@ public class Telefono extends JFrame implements ActionListener {
                     "Informacion", JOptionPane.INFORMATION_MESSAGE);
         }
 
-        if (e.getSource() == btReset) {
+        if (e.getSource() == btReset || e.getSource() == resetOpc) {
             txfNumerosPulsados.setText("");
             texto = "";
             for (int i = 0; i < botones.length; i++) {
@@ -174,25 +162,20 @@ public class Telefono extends JFrame implements ActionListener {
         @Override
         public void mouseClicked(MouseEvent e) {
 
-            for (int i = 0; i < botones.length; i++) {
-                if (e.getSource() == botones[i]) {
-                    botones[i].setBackground(Color.RED);
-                }
-            }
+            ((JButton) e.getSource()).setBackground(Color.RED);
+
         }
 
         @Override
         public void mouseEntered(MouseEvent e) {
-            for (int i = 0; i < botones.length; i++) {
-                if (e.getSource() == botones[i] && botones[i].getBackground()!= Color.RED){
-                    botones[i].setBackground(Color.GREEN);
-                }
-            }
+
+            ((JButton) e.getSource()).setBackground(Color.GREEN);
 
         }
 
         @Override
         public void mouseExited(MouseEvent e) {
+
             for (int i = 0; i < botones.length; i++) {
                 if (e.getSource() == botones[i] && botones[i].getBackground() != Color.RED) {
                     botones[i].setBackground(null);
@@ -208,15 +191,12 @@ public class Telefono extends JFrame implements ActionListener {
         @Override
         public void keyPressed(KeyEvent e) {
             String teclaPulsada = Character.toString(e.getKeyChar());
-
-            texto = texto+teclaPulsada;
-
-            txfNumerosPulsados.setText(texto);
-            
-            
+      
             for (int i = 0; i < botones.length; i++) {
                 if(Telefono.this.botones[i].getText().equals(teclaPulsada)){
+                    texto = texto+teclaPulsada;
                     Telefono.this.botones[i].setBackground(Color.RED);
+                    txfNumerosPulsados.setText(texto);
                 }
             }
             
@@ -225,7 +205,6 @@ public class Telefono extends JFrame implements ActionListener {
         @Override
         public void keyReleased(KeyEvent e){
             String teclaPulsada = Character.toString(e.getKeyChar());
-
 
             for (int i = 0; i < botones.length; i++) {
                 if(Telefono.this.botones[i].getText().equals(teclaPulsada)){
