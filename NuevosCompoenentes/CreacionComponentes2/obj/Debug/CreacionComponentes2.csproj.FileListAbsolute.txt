@@ -1,0 +1,26 @@
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\CreacionComponentes2\bin\Debug\CreacionComponentes2.exe.config
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\CreacionComponentes2\bin\Debug\CreacionComponentes2.exe
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\CreacionComponentes2\bin\Debug\CreacionComponentes2.pdb
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\CreacionComponentes2\obj\Debug\CreacionComponentes2.csprojAssemblyReference.cache
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\CreacionComponentes2\obj\Debug\CreacionComponentes2.Properties.Resources.resources
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\CreacionComponentes2\obj\Debug\CreacionComponentes2.csproj.GenerateResource.cache
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\CreacionComponentes2\obj\Debug\CreacionComponentes2.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\CreacionComponentes2\obj\Debug\CreacionComponentes2.exe
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\CreacionComponentes2\obj\Debug\CreacionComponentes2.pdb
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\CreacionComponentes2\bin\Debug\NuevosCompoenentes.dll
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\CreacionComponentes2\bin\Debug\NuevosCompoenentes.pdb
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\CreacionComponentes2\obj\Debug\CreacionComponentes2.Form1.resources
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\CreacionComponentes2\obj\Debug\CreacionComponentes2.csproj.CopyComplete
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\CreacionComponentes2\bin\Debug\CreacionComponentes2.exe.config
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\CreacionComponentes2\bin\Debug\CreacionComponentes2.exe
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\CreacionComponentes2\bin\Debug\CreacionComponentes2.pdb
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\CreacionComponentes2\bin\Debug\NuevosCompoenentes.dll
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\CreacionComponentes2\bin\Debug\NuevosCompoenentes.pdb
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\CreacionComponentes2\obj\Debug\CreacionComponentes2.csprojAssemblyReference.cache
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\CreacionComponentes2\obj\Debug\CreacionComponentes2.Form1.resources
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\CreacionComponentes2\obj\Debug\CreacionComponentes2.Properties.Resources.resources
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\CreacionComponentes2\obj\Debug\CreacionComponentes2.csproj.GenerateResource.cache
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\CreacionComponentes2\obj\Debug\CreacionComponentes2.csproj.CoreCompileInputs.cache
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\CreacionComponentes2\obj\Debug\CreacionComponentes2.csproj.CopyComplete
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\CreacionComponentes2\obj\Debug\CreacionComponentes2.exe
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\CreacionComponentes2\obj\Debug\CreacionComponentes2.pdb

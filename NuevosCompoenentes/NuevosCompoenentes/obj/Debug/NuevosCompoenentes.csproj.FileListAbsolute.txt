@@ -1,0 +1,16 @@
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\NuevosCompoenentes\bin\Debug\NuevosCompoenentes.dll
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\NuevosCompoenentes\bin\Debug\NuevosCompoenentes.pdb
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\NuevosCompoenentes\obj\Debug\NuevosCompoenentes.EtiquetaAviso.resources
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\NuevosCompoenentes\obj\Debug\NuevosCompoenentes.csproj.GenerateResource.cache
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\NuevosCompoenentes\obj\Debug\NuevosCompoenentes.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\NuevosCompoenentes\obj\Debug\NuevosCompoenentes.dll
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\NuevosCompoenentes\obj\Debug\NuevosCompoenentes.pdb
+C:\Users\Juanjo\source\repos\NuevosCompoenentes\NuevosCompoenentes\obj\Debug\NuevosCompoenentes.csprojAssemblyReference.cache
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\NuevosCompoenentes\bin\Debug\NuevosCompoenentes.dll
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\NuevosCompoenentes\bin\Debug\NuevosCompoenentes.pdb
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\NuevosCompoenentes\obj\Debug\NuevosCompoenentes.csprojAssemblyReference.cache
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\NuevosCompoenentes\obj\Debug\NuevosCompoenentes.EtiquetaAviso.resources
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\NuevosCompoenentes\obj\Debug\NuevosCompoenentes.csproj.GenerateResource.cache
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\NuevosCompoenentes\obj\Debug\NuevosCompoenentes.csproj.CoreCompileInputs.cache
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\NuevosCompoenentes\obj\Debug\NuevosCompoenentes.dll
+H:\DAM 2020\Desarrollo de interfaces\Tema5\NuevosCompoenentes\NuevosCompoenentes\obj\Debug\NuevosCompoenentes.pdb
