@@ -1,0 +1,9 @@
+C:\Users\Juanjo\source\repos\Ejer3\Ejer3\bin\Debug\Ejer3.dll
+C:\Users\Juanjo\source\repos\Ejer3\Ejer3\bin\Debug\Ejer3.pdb
+C:\Users\Juanjo\source\repos\Ejer3\Ejer3\obj\Debug\Ejer3.csprojAssemblyReference.cache
+C:\Users\Juanjo\source\repos\Ejer3\Ejer3\obj\Debug\Ejer3.reproductor.resources
+C:\Users\Juanjo\source\repos\Ejer3\Ejer3\obj\Debug\Ejer3.csproj.GenerateResource.cache
+C:\Users\Juanjo\source\repos\Ejer3\Ejer3\obj\Debug\Ejer3.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\source\repos\Ejer3\Ejer3\obj\Debug\Ejer3.dll
+C:\Users\Juanjo\source\repos\Ejer3\Ejer3\obj\Debug\Ejer3.pdb
+C:\Users\Juanjo\source\repos\Ejer3\Ejer3\obj\Debug\Ejer3.Properties.Resources.resources
