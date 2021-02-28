@@ -1,0 +1,8 @@
+C:\Users\Juanjo\source\repos\Ejer5\Ejer5\bin\Debug\Ejer5.dll
+C:\Users\Juanjo\source\repos\Ejer5\Ejer5\bin\Debug\Ejer5.pdb
+C:\Users\Juanjo\source\repos\Ejer5\Ejer5\obj\Debug\Ejer5.ValidateTextBox.resources
+C:\Users\Juanjo\source\repos\Ejer5\Ejer5\obj\Debug\Ejer5.csproj.GenerateResource.cache
+C:\Users\Juanjo\source\repos\Ejer5\Ejer5\obj\Debug\Ejer5.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\source\repos\Ejer5\Ejer5\obj\Debug\Ejer5.dll
+C:\Users\Juanjo\source\repos\Ejer5\Ejer5\obj\Debug\Ejer5.pdb
+C:\Users\Juanjo\source\repos\Ejer5\Ejer5\obj\Debug\Ejer5.csprojAssemblyReference.cache

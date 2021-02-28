@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejer5", "Ejer5\Ejer5.csproj", "{6DB0E215-7DDE-43CA-BFC3-A835681E381F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{595C9072-1BB2-4ED8-A922-85241C418256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DB0E215-7DDE-43CA-BFC3-A835681E381F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB0E215-7DDE-43CA-BFC3-A835681E381F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB0E215-7DDE-43CA-BFC3-A835681E381F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB0E215-7DDE-43CA-BFC3-A835681E381F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{595C9072-1BB2-4ED8-A922-85241C418256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595C9072-1BB2-4ED8-A922-85241C418256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595C9072-1BB2-4ED8-A922-85241C418256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595C9072-1BB2-4ED8-A922-85241C418256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66FF1A25-C14E-4D86-B0CF-4FD3B811C388}
+	EndGlobalSection
+EndGlobal
