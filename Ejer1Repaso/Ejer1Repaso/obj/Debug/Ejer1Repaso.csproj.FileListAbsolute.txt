@@ -1,0 +1,14 @@
+C:\Users\Juanjo\source\repos\Ejer1Repaso\Ejer1Repaso\bin\Debug\Ejer1Repaso.exe.config
+C:\Users\Juanjo\source\repos\Ejer1Repaso\Ejer1Repaso\bin\Debug\Ejer1Repaso.exe
+C:\Users\Juanjo\source\repos\Ejer1Repaso\Ejer1Repaso\bin\Debug\Ejer1Repaso.pdb
+C:\Users\Juanjo\source\repos\Ejer1Repaso\Ejer1Repaso\obj\Debug\Ejer1Repaso.csprojAssemblyReference.cache
+C:\Users\Juanjo\source\repos\Ejer1Repaso\Ejer1Repaso\obj\Debug\Ejer1Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\source\repos\Ejer1Repaso\Ejer1Repaso\obj\Debug\Ejer1Repaso.exe
+C:\Users\Juanjo\source\repos\Ejer1Repaso\Ejer1Repaso\obj\Debug\Ejer1Repaso.pdb
+H:\DAM 2020\Procesos y servicios\Repaso\Ejer1Repaso\Ejer1Repaso\bin\Debug\Ejer1Repaso.exe.config
+H:\DAM 2020\Procesos y servicios\Repaso\Ejer1Repaso\Ejer1Repaso\bin\Debug\Ejer1Repaso.exe
+H:\DAM 2020\Procesos y servicios\Repaso\Ejer1Repaso\Ejer1Repaso\bin\Debug\Ejer1Repaso.pdb
+H:\DAM 2020\Procesos y servicios\Repaso\Ejer1Repaso\Ejer1Repaso\obj\Debug\Ejer1Repaso.csprojAssemblyReference.cache
+H:\DAM 2020\Procesos y servicios\Repaso\Ejer1Repaso\Ejer1Repaso\obj\Debug\Ejer1Repaso.csproj.CoreCompileInputs.cache
+H:\DAM 2020\Procesos y servicios\Repaso\Ejer1Repaso\Ejer1Repaso\obj\Debug\Ejer1Repaso.exe
+H:\DAM 2020\Procesos y servicios\Repaso\Ejer1Repaso\Ejer1Repaso\obj\Debug\Ejer1Repaso.pdb
