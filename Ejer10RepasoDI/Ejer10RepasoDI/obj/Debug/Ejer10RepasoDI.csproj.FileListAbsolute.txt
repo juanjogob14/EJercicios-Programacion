@@ -1,0 +1,48 @@
+C:\Users\Juanjo\source\repos\Ejer10RepasoDI\Ejer10RepasoDI\bin\Debug\Ejer10RepasoDI.exe.config
+C:\Users\Juanjo\source\repos\Ejer10RepasoDI\Ejer10RepasoDI\bin\Debug\Ejer10RepasoDI.exe
+C:\Users\Juanjo\source\repos\Ejer10RepasoDI\Ejer10RepasoDI\bin\Debug\Ejer10RepasoDI.pdb
+C:\Users\Juanjo\source\repos\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.Properties.Resources.resources
+C:\Users\Juanjo\source\repos\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.ValidateTextBox.resources
+C:\Users\Juanjo\source\repos\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.csproj.GenerateResource.cache
+C:\Users\Juanjo\source\repos\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\source\repos\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.exe
+C:\Users\Juanjo\source\repos\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.pdb
+C:\Users\Juanjo\source\repos\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.Form1.resources
+C:\Users\Juanjo\source\repos\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.csprojAssemblyReference.cache
+C:\Users\Juanjo\source\repos\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.Form2.resources
+D:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\bin\Debug\Ejer10RepasoDI.exe.config
+D:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\bin\Debug\Ejer10RepasoDI.exe
+D:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\bin\Debug\Ejer10RepasoDI.pdb
+D:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.csprojAssemblyReference.cache
+D:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.Form1.resources
+D:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.Form2.resources
+D:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.Properties.Resources.resources
+D:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.ValidateTextBox.resources
+D:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.csproj.GenerateResource.cache
+D:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.csproj.CoreCompileInputs.cache
+D:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.exe
+D:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.pdb
+H:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\bin\Debug\Ejer10RepasoDI.exe.config
+H:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\bin\Debug\Ejer10RepasoDI.exe
+H:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\bin\Debug\Ejer10RepasoDI.pdb
+H:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.Form1.resources
+H:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.Form2.resources
+H:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.Properties.Resources.resources
+H:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.ValidateTextBox.resources
+H:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.csproj.GenerateResource.cache
+H:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.csproj.CoreCompileInputs.cache
+H:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.exe
+H:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.pdb
+E:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\bin\Debug\Ejer10RepasoDI.exe.config
+E:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\bin\Debug\Ejer10RepasoDI.exe
+E:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\bin\Debug\Ejer10RepasoDI.pdb
+E:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.Form1.resources
+E:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.Form2.resources
+E:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.Properties.Resources.resources
+E:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.ValidateTextBox.resources
+E:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.csproj.GenerateResource.cache
+E:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.csproj.CoreCompileInputs.cache
+E:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.exe
+E:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.pdb
+E:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.csprojAssemblyReference.cache
+H:\DAM 2020\Desarrollo de interfaces\Repaso Junio\Ejer10RepasoDI\Ejer10RepasoDI\obj\Debug\Ejer10RepasoDI.csprojAssemblyReference.cache
