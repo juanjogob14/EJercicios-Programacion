@@ -60,34 +60,16 @@ namespace Ejer10RepasoDI
             }
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void RadioBotonesSeleccionadosSexo(object sender, EventArgs e)
         {
-            sFriki f1 = new sFriki(validateTextBox1.Texto, Convert.ToInt32(validateTextBox2.Texto), (sFriki.eAficion)(comboBox1.SelectedIndex), (sFriki.eSexo)Enum.Parse(typeof(sFriki.eSexo),rb1Selec,true), (sFriki.eSexo)Enum.Parse(typeof(sFriki.eSexo), rb2Selec, true), textBox1.Text);
-            f.frikis.Add(f1);
-            f.listBox1.Items.Add(f1);
-            Console.WriteLine(rb1Selec);
+            RadioButton radiob1 = (RadioButton)sender;
+            rb1Selec = radiob1.Text;
         }
 
-
-        private void RadioBotonesSeleccionados(object sender, EventArgs e)
+        private void RadioBotonesSeleccionadosSexoOpuesto(object sender, EventArgs e)
         {
-            if (radioButton1.Checked)
-            {
-                rb1Selec = radioButton1.Text;
-            }
-            else if (radioButton2.Checked)
-            {
-                rb1Selec = radioButton2.Text;
-            }
-
-            if (radioButton3.Checked)
-            {
-                rb2Selec = radioButton3.Text;
-            }
-            else if (radioButton4.Checked)
-            {
-                rb2Selec = radioButton4.Text;
-            }
+            RadioButton radiob2 = (RadioButton)sender;
+            rb2Selec = radiob2.Text;
         }
     }
 }

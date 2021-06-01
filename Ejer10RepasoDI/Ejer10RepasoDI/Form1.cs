@@ -83,7 +83,12 @@ namespace Ejer10RepasoDI
         private void BtnNuevo_Click(object sender, EventArgs e)
         {
             Form2 f = new Form2(this);
-            f.ShowDialog();
+            if (f.ShowDialog() == DialogResult.OK)
+            {
+                sFriki f1 = new sFriki(f.validateTextBox1.Texto, Convert.ToInt32(f.validateTextBox2.Texto), (sFriki.eAficion)(f.comboBox1.SelectedIndex), (sFriki.eSexo)Enum.Parse(typeof(sFriki.eSexo), f.rb1Selec, true), (sFriki.eSexo)Enum.Parse(typeof(sFriki.eSexo), f.rb2Selec, true), f.textBox1.Text);
+                frikis.Add(f1);
+                listBox1.Items.Add(f1);
+            } 
         }
 
         private void NuevoToolStripMenuItem_Click(object sender, EventArgs e)
