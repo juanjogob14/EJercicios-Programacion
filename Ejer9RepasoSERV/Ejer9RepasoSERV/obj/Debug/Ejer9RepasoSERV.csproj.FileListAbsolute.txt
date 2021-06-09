@@ -1,0 +1,7 @@
+C:\Users\Juanjo\source\repos\Ejer9RepasoSERV\Ejer9RepasoSERV\bin\Debug\Ejer9RepasoSERV.exe.config
+C:\Users\Juanjo\source\repos\Ejer9RepasoSERV\Ejer9RepasoSERV\bin\Debug\Ejer9RepasoSERV.exe
+C:\Users\Juanjo\source\repos\Ejer9RepasoSERV\Ejer9RepasoSERV\bin\Debug\Ejer9RepasoSERV.pdb
+C:\Users\Juanjo\source\repos\Ejer9RepasoSERV\Ejer9RepasoSERV\obj\Debug\Ejer9RepasoSERV.csprojAssemblyReference.cache
+C:\Users\Juanjo\source\repos\Ejer9RepasoSERV\Ejer9RepasoSERV\obj\Debug\Ejer9RepasoSERV.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\source\repos\Ejer9RepasoSERV\Ejer9RepasoSERV\obj\Debug\Ejer9RepasoSERV.exe
+C:\Users\Juanjo\source\repos\Ejer9RepasoSERV\Ejer9RepasoSERV\obj\Debug\Ejer9RepasoSERV.pdb
